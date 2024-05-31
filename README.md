@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Vitoria</h1>
-<h3 align="center">I'm a enthusiastic for mobile development and cyber security</h3>
+<h3 align="center">I'm a enthusiastic for development and cyber security</h3>
 
 - 🌱 I’m currently learning **Dart, Flutter and Ethical hacking**
 
